@@ -1,4 +1,4 @@
-# Task Management Application
+# Task Manager
 
 This is a task management web application built with MongoDB, React (using Context/Redux for state management), and an Express.js RESTful API for server-side functionality.
 
